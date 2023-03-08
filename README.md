@@ -4,7 +4,7 @@
 - Password changes
 - Add users that are in the csv file but not on the system (queries user first tho)
 - Remove users that are on the system but not on the csv (queries user first tho)
-- UUpdate csv to include previously unlisted users
+- Update csv to include previously unlisted users
 
 #### Usage 
 
@@ -13,9 +13,9 @@ In order to run the program you will use the following:
 
 
 ###### CSV format
-- "N/A" tells script that no password is supplied and should be marked as emtpy 
+- "N/A" tells script that no password is supplied and should be marked as empty 
 - first column stores the usernames 
-- second solumn stores the passwords
+- second column stores the passwords
 
 
 ```
