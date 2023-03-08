@@ -6,6 +6,12 @@
 - Remove users that are on the system but not on the csv (queries user first tho)
 - UUpdate csv to include previously unlisted users
 
+#### Usage 
+
+In order to run the program you will use the following:
+- `.\PasswordChanger.ps1 <csv file>`
+
+
 ###### CSV format
 - "N/A" tells script that no password is supplied and should be marked as emtpy 
 - first column stores the usernames 
